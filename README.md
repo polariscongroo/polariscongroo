@@ -1,7 +1,7 @@
 ## <p align="center"> My name is Chadi </p>
 
 <p align="center">
-As a passionate fan of space and cosmology, I am an engineering student eager to explore the vast possibilities at the intersection of informatics and these captivating fields. My goal is to experiment with innovative technologies and data analysis techniques to contribute to the understanding of the universe, using computational methods to tackle complex problems in space exploration and cosmological research.  * 🌍  I'm based in Paris * 🧠  I'm learning Deep Learning, Convolutional Networks
+As a passionate fan of space and cosmology, I am an engineering student eager to explore the vast possibilities at the intersection of informatics and these captivating fields. My goal is to experiment with innovative technologies and data analysis techniques to contribute to the understanding of the universe, using computational methods to tackle complex problems in space exploration and cosmological research.  * 🧠  I'm learning Deep Learning, Convolutional Networks
 </p>
 
 ## Skills 
