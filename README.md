@@ -1,7 +1,7 @@
-## <p align="center"> My name is Chadi </p>
+## <p align="center"> My name is Chadi Ait Ekioui </p>
 
 <p align="center">
-As a passionate fan of space and cosmology, I am an engineering student eager to explore the vast possibilities at the intersection of informatics and these captivating fields. My goal is to experiment with innovative technologies and data analysis techniques to contribute to the understanding of the universe, using computational methods to tackle complex problems in space exploration and cosmological research.  * 🧠  I'm learning Deep Learning, Convolutional Networks
+As a Student Researcher in AI for Science, I am eager to explore the vast potential at the intersection of computer science and scientific discovery.
 </p>
 
 ## Skills 
@@ -10,5 +10,11 @@ As a passionate fan of space and cosmology, I am an engineering student eager to
 
 ## Repositories
 
-<div width="100%" align="center"><a href="https://github.com/polariscongroo/polaris" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=polariscongroo&repo=polaris&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/polariscongroo/CnnForGalaxyClassification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=polariscongroo&repo=CnnForGalaxyClassification&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center">
+  <a href="https://github.com/polariscongroo/polaris" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=polariscongroo&repo=polaris&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/CMBAgents/Context_Maker" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CMBAgents&repo=Context_Maker&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
